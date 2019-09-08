@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "//Year3000FlyingCars/static/css/main.eabfc939.chunk.css",
-    "main.js": "//Year3000FlyingCars/static/js/main.8a539083.chunk.js",
-    "main.js.map": "//Year3000FlyingCars/static/js/main.8a539083.chunk.js.map",
-    "runtime~main.js": "//Year3000FlyingCars/static/js/runtime~main.617b6408.js",
-    "runtime~main.js.map": "//Year3000FlyingCars/static/js/runtime~main.617b6408.js.map",
-    "static/css/2.22a7d4ef.chunk.css": "//Year3000FlyingCars/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.3303709c.chunk.js": "//Year3000FlyingCars/static/js/2.3303709c.chunk.js",
-    "static/js/2.3303709c.chunk.js.map": "//Year3000FlyingCars/static/js/2.3303709c.chunk.js.map",
-    "index.html": "//Year3000FlyingCars/index.html",
-    "precache-manifest.6cea76ce497a3b6bcbaf2d5a47e37802.js": "//Year3000FlyingCars/precache-manifest.6cea76ce497a3b6bcbaf2d5a47e37802.js",
-    "service-worker.js": "//Year3000FlyingCars/service-worker.js",
-    "static/css/2.22a7d4ef.chunk.css.map": "//Year3000FlyingCars/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.eabfc939.chunk.css.map": "//Year3000FlyingCars/static/css/main.eabfc939.chunk.css.map"
+    "main.css": "/Year3000FlyingCars/static/css/main.eabfc939.chunk.css",
+    "main.js": "/Year3000FlyingCars/static/js/main.bd882f04.chunk.js",
+    "main.js.map": "/Year3000FlyingCars/static/js/main.bd882f04.chunk.js.map",
+    "runtime~main.js": "/Year3000FlyingCars/static/js/runtime~main.6d759f70.js",
+    "runtime~main.js.map": "/Year3000FlyingCars/static/js/runtime~main.6d759f70.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/Year3000FlyingCars/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.3303709c.chunk.js": "/Year3000FlyingCars/static/js/2.3303709c.chunk.js",
+    "static/js/2.3303709c.chunk.js.map": "/Year3000FlyingCars/static/js/2.3303709c.chunk.js.map",
+    "index.html": "/Year3000FlyingCars/index.html",
+    "precache-manifest.626f789b211ede70f62e491ce7566304.js": "/Year3000FlyingCars/precache-manifest.626f789b211ede70f62e491ce7566304.js",
+    "service-worker.js": "/Year3000FlyingCars/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/Year3000FlyingCars/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.eabfc939.chunk.css.map": "/Year3000FlyingCars/static/css/main.eabfc939.chunk.css.map"
   }
 }
